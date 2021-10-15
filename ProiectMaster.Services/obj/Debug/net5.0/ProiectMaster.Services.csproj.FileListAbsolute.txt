@@ -1,0 +1,17 @@
+D:\Denisa\Facultate\Master\Anul 2\Afaceri electronice\BizuDenisa-Proiect\ProiectMaster\ProiectMaster.Services\bin\Debug\net5.0\ProiectMaster.Services.deps.json
+D:\Denisa\Facultate\Master\Anul 2\Afaceri electronice\BizuDenisa-Proiect\ProiectMaster\ProiectMaster.Services\bin\Debug\net5.0\ProiectMaster.Services.dll
+D:\Denisa\Facultate\Master\Anul 2\Afaceri electronice\BizuDenisa-Proiect\ProiectMaster\ProiectMaster.Services\bin\Debug\net5.0\ref\ProiectMaster.Services.dll
+D:\Denisa\Facultate\Master\Anul 2\Afaceri electronice\BizuDenisa-Proiect\ProiectMaster\ProiectMaster.Services\bin\Debug\net5.0\ProiectMaster.Services.pdb
+D:\Denisa\Facultate\Master\Anul 2\Afaceri electronice\BizuDenisa-Proiect\ProiectMaster\ProiectMaster.Services\bin\Debug\net5.0\ProiectMaster.DataAccess.dll
+D:\Denisa\Facultate\Master\Anul 2\Afaceri electronice\BizuDenisa-Proiect\ProiectMaster\ProiectMaster.Services\bin\Debug\net5.0\ProiectMaster.Models.dll
+D:\Denisa\Facultate\Master\Anul 2\Afaceri electronice\BizuDenisa-Proiect\ProiectMaster\ProiectMaster.Services\bin\Debug\net5.0\ProiectMaster.DataAccess.pdb
+D:\Denisa\Facultate\Master\Anul 2\Afaceri electronice\BizuDenisa-Proiect\ProiectMaster\ProiectMaster.Services\bin\Debug\net5.0\ProiectMaster.Models.pdb
+D:\Denisa\Facultate\Master\Anul 2\Afaceri electronice\BizuDenisa-Proiect\ProiectMaster\ProiectMaster.Services\obj\Debug\net5.0\ProiectMaster.Services.csproj.AssemblyReference.cache
+D:\Denisa\Facultate\Master\Anul 2\Afaceri electronice\BizuDenisa-Proiect\ProiectMaster\ProiectMaster.Services\obj\Debug\net5.0\ProiectMaster.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Denisa\Facultate\Master\Anul 2\Afaceri electronice\BizuDenisa-Proiect\ProiectMaster\ProiectMaster.Services\obj\Debug\net5.0\ProiectMaster.Services.AssemblyInfoInputs.cache
+D:\Denisa\Facultate\Master\Anul 2\Afaceri electronice\BizuDenisa-Proiect\ProiectMaster\ProiectMaster.Services\obj\Debug\net5.0\ProiectMaster.Services.AssemblyInfo.cs
+D:\Denisa\Facultate\Master\Anul 2\Afaceri electronice\BizuDenisa-Proiect\ProiectMaster\ProiectMaster.Services\obj\Debug\net5.0\ProiectMaster.Services.csproj.CoreCompileInputs.cache
+D:\Denisa\Facultate\Master\Anul 2\Afaceri electronice\BizuDenisa-Proiect\ProiectMaster\ProiectMaster.Services\obj\Debug\net5.0\ProiectMaster.Services.csproj.CopyComplete
+D:\Denisa\Facultate\Master\Anul 2\Afaceri electronice\BizuDenisa-Proiect\ProiectMaster\ProiectMaster.Services\obj\Debug\net5.0\ProiectMaster.Services.dll
+D:\Denisa\Facultate\Master\Anul 2\Afaceri electronice\BizuDenisa-Proiect\ProiectMaster\ProiectMaster.Services\obj\Debug\net5.0\ref\ProiectMaster.Services.dll
+D:\Denisa\Facultate\Master\Anul 2\Afaceri electronice\BizuDenisa-Proiect\ProiectMaster\ProiectMaster.Services\obj\Debug\net5.0\ProiectMaster.Services.pdb
